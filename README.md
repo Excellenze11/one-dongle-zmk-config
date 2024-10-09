@@ -17,7 +17,7 @@ This layout is heavily inspired from [Watchman 42-key layout](https://github.com
   - [Problems](#problems)
     - [I'm getting File Transfer Error after copying firmware to the keyboard](#im-getting-file-transfer-error-after-copying-firmware-to-the-keyboard)
 
-### How to change the keymap?
+### How to change the keymap?  
 
 1. Fork or use this repository as a template https://github.com/ergonautkb/one-zmk-config.
 2. Enable Github Actions for your repository.
